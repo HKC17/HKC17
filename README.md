@@ -1,11 +1,17 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
-  </head>
-  <body>
+<h1 align="center">Hi 👋, I'm Harsh Chaudhari</h1>
+<h3 align="center">A passionate Java Full Stack developer from India</h3>
+
+- 🔭 I’m currently working on **Improving my skills in Java Full Stack Development.**
+
+- 🌱 I’m currently learning **Advanced techniques in back-end development and cloud infrastructure management.**
+
+- 👯 I’m looking to collaborate on **Exciting projects in web development and cloud computing.**
+
+- 🤝 I’m looking for help with **Enhancing my knowledge of DevOps practices and AWS services.**
+
+- 💬 Ask me about **Anything related to web development, software engineering, or project management.**
+
+- 📫 How to reach me **harshkc17@gmail.com**
     <h1 align="center">Hi 👋, I'm Harsh Chaudhari</h1>
     <h3 align="center">A passionate Java Full Stack developer from India</h3>
 
@@ -17,15 +23,14 @@
     and AWS services.** - 💬 Ask me about **Anything related to web development,
     software engineering, or project management.** - 📫 How to reach me
     **harshkc17@gmail.com** ### Glad to see you here! I’m a full-stack
-    developer.recently completed my Post Graduation Diploma in Advance Computing
-    , where I developed a solid understanding of Java programming and web
+    developer. recently completed my Post Graduation Diploma in Advance Computing, where I developed a solid understanding of Java programming and web
     development principles. Being a full-stack allows me to not only develop
-    client-facing apps and websites but also develop it with cutting edge
+    client-facing apps and websites but also develop them with cutting-edge
     backend support. I specialize in building robust backends that do all the
     heavy lifting for your app or website. I love designing systems that are
-    light yet powerful, distributed yet synchronized and beautiful yet
+    light yet powerful, distributed yet synchronized, and beautiful yet
     effective. I also frequently blog about the world behind the screen which
-    involves system designs, databases, security, servers, optimisation and also
+    involves system designs, databases, security, servers, optimization and also
     promising technologies like Blockchain and PWAs.
 
     <br />
@@ -190,7 +195,6 @@
           alt="jQuery"
           height="50"
       /></a>
-
       <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"
         ><img
           style="margin: 10px"
@@ -198,7 +202,6 @@
           alt="mssql"
           height="50"
       /></a>
-
       <a href="https://www.oracle.com/" target="_blank"
         ><img
           style="margin: 10px"
@@ -206,7 +209,6 @@
           alt="oracle"
           height="50"
       /></a>
-
       <a href="https://postman.com" target="_blank"
         ><img
           style="margin: 10px"
@@ -265,5 +267,20 @@
     ![](https://github-readme-stats.vercel.app/api?username=HKC17&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br />
     ![](https://github-readme-streak-stats.herokuapp.com/?user=HKC17&theme=dark&hide_border=false)<br />
     ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HKC17&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-  </body>
-</html>
+  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/harsh--chaudhari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harsh--chaudhari/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/harshkc17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/harshkc17" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/hawkeye17/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/hawkeye17/" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/https://www.hackerearth.com/@harshkc17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@harshkc17" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+
+![](https://github-readme-stats.vercel.app/api?username=HKC17&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=HKC17&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HKC17&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+
