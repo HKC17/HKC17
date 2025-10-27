@@ -8,7 +8,7 @@
 
 Backend Developer with 1+ years of experience specializing in building robust, scalable systems. I'm passionate about creating high-performance applications that solve real-world problems and optimize business operations.
 
-Currently working at **Treadbinary Technologies Pvt. Ltd.** as an Associate Consultant, where I develop and maintain backend services for enterprise-level platforms.
+Currently working as an **Associate Consultant (Backend Developer)**, where I develop and maintain backend services for enterprise-level platforms.
 
 ## 💼 Professional Highlights
 
